@@ -1,0 +1,53 @@
+{
+  "about": {
+    "id": 1,
+    "fullname": "Murad Asadzade",
+    "description": "Full-Stack Developer",
+    "birthDate": "20.05.2004",
+    "address": "Azetbaijan, Baku",
+    "email": "muradesedzade2004@gmail.com",
+    "website": "www.muradasadzade.com",
+    "positions": [
+      "Optimistic",
+      "Respectful",
+      "Enthusiastic",
+      "Creative",
+      "Cheerful"
+    ],
+    "img":"img/men.jpg"
+  },
+  "services": [
+    {
+      "id": 1,
+      "cardName": "React",
+      "cardContent": "React cart content"
+    },
+    {
+      "id": 2,
+      "cardName": "Node js",
+      "cardContent": "Node js cart content"
+    },
+    {
+      "id": 3,
+      "cardName": "Redux",
+      "cardContent": "Redux cart content"
+    },
+    {
+      "id": 4,
+      "cardName": "Next js",
+      "cardContent": "Next js cart content"
+    },
+    {
+      "id": 5,
+      "cardName": "Mongo db",
+      "cardContent": " Mongodb cart content"
+    },
+    {
+      "id": 6,
+      "cardName": "Express js",
+      "cardContent": "Express js cart content"
+    }
+  ],
+
+  "requests": []
+}
